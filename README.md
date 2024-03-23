@@ -1,4 +1,6 @@
-# Paketo Jammy Base Stack
+# Base Stack
+
+Creating my own base stack by modifying the latest paketobuildpack stack
 
 ## What is a stack?
 See Paketo's [stacks documentation](https://paketo.io/docs/concepts/stacks/).
